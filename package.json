@@ -1,7 +1,6 @@
 {
   "name": "09.JS-Applications-Workshop-End-to-End-Applications-Resources",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,15 @@
   "dependencies": {
     "lit-html": "^3.2.0",
     "page": "^1.11.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ht-quiz-system-fever/ht-quiz-system-fever.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ht-quiz-system-fever/ht-quiz-system-fever.github.io/issues"
+  },
+  "homepage": "https://github.com/ht-quiz-system-fever/ht-quiz-system-fever.github.io#readme",
+  "description": ""
 }
