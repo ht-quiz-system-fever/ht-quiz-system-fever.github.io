@@ -1,4 +1,4 @@
-import { html, render } from "../../node_modules/lit-html/lit-html.js";
+import { html, render } from "@lit/lit-html.js";
 
 const contentDiv = document.getElementById("content");
 
@@ -22,7 +22,7 @@ const temp = () => html`
                     <input class="block action cta" type="submit" value="Create Account" />
                 </form>
                 <footer class="tab-footer">
-                    Already have an account? <a class="invert" href="#">Sign in here</a>.
+                    Already have an account? <a class="invert" href="/login">Sign in here</a>.
                 </footer>
             </div>
         </div>
