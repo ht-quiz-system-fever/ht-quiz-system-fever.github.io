@@ -21,5 +21,5 @@ page("/register", showRegisterView);
 page("/browse", showBrowseView);
 page("/profile", showProfileView);
 
-page.start();
+page.start()
 
